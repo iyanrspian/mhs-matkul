@@ -10,6 +10,12 @@
 ## About Laravel
 
 One to Many Relationship - CRUD Data Mahasiswa & Mata Kuliah with AdminLTE3
+First step:
+- composer install
+- rename .env.example to .env (and configure it)
+- php artisan key:generate
+
+*Note
 - Database : Mariadb / MySQL (mhs_matkul)
 
 ## License
